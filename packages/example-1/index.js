@@ -1,4 +1,4 @@
 
 module.exports = {
-	example1: 'from-example-1'
+	example1: 'from-example-one'
 };
