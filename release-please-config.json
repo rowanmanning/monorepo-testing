@@ -1,0 +1,14 @@
+{
+  "changelog-type": "github",
+  "prerelease": true,
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
+  "plugins": [
+    "node-workspace"
+  ],
+  "packages": {
+    "packages/example-1": {},
+    "packages/example-2": {},
+    "packages/example-3": {}
+  }
+}
