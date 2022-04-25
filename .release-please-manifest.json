@@ -1,1 +1,5 @@
-{}
+{
+  "packages/example-1": "0.0.0",
+  "packages/example-2": "0.0.0",
+  "packages/example-3": "0.0.0"
+}
